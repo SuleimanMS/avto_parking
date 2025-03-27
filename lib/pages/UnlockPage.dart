@@ -90,7 +90,7 @@ class _UnlockPageState extends State<UnlockPage> {
                   sliderButtonIcon: Image.asset("assets/images/unlock_car.png"),
                   sliderButtonIconPadding: 22,
                   borderRadius: 100,
-                  text: ">>>   Boshlash",
+                  text: ">>> Boshlash",
                   sliderRotate: false,
                   animationDuration: Duration(milliseconds: 100),
                   onSubmit: () {
